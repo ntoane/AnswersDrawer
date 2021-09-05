@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Answers App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_menu">Dashboard</string>
+    <string name="maths_menu">Mathematics</string>
+    <string name="biology_menu">Biology</string>
+    <string name="chemistry_menu">Chemistry</string>
+    <string name="maths_fragment">Mathematics Fragment</string>
+    <string name="biology_fragment">Biology Fragment</string>
+    <string name="chemistry_fragment">Chemistry Fragment</string>
+    <string name="dashboard_tv">Dashboard</string>
+    <string name="btn_register">Register Account</string>
+    <string name="btn_ask">Ask Question</string>
+    <string name="btn_browse">Browse Topics</string>
+    <string name="account_tv">ACCOUNT SCREEN</string>
+    <string name="ask_tv">ASK SCREEN</string>
+    <string name="browse_tx">BROWSE SCREEN</string>
+    <string name="splash_text">ANSWERS</string>
+</resources>

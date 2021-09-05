@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/dashboard"
+            android:title="@string/dashboard_menu" />
+        <item
+            android:id="@+id/nav_biology"
+            android:icon="@drawable/subject"
+            android:title="@string/biology_menu" />
+        <item
+            android:id="@+id/nav_maths"
+            android:icon="@drawable/subject"
+            android:title="@string/maths_menu" />
+
+        <item
+            android:id="@+id/nav_chemistry"
+            android:icon="@drawable/subject"
+            android:title="@string/chemistry_menu" />
+    </group>
+</menu>
